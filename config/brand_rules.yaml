@@ -1,0 +1,46 @@
+{
+  "brand": "Silent Deeds",
+  "purpose": "Cinematic Islamic storytelling centered on sincerity and hidden acts of worship.",
+  "rules": [
+    {
+      "name": "emotional impact",
+      "guidance": "Prioritize quiet emotional weight over spectacle."
+    },
+    {
+      "name": "authenticity",
+      "guidance": "Do not invent religious claims, sources, or historical certainty."
+    },
+    {
+      "name": "hidden deeds",
+      "guidance": "Emphasize unseen good actions and private obedience."
+    },
+    {
+      "name": "sincerity",
+      "guidance": "Frame intentions with humility and restraint."
+    },
+    {
+      "name": "repentance",
+      "guidance": "Allow space for regret, return, and moral change."
+    },
+    {
+      "name": "mercy",
+      "guidance": "Avoid despairing framing; keep mercy present where appropriate."
+    },
+    {
+      "name": "death/accountability",
+      "guidance": "Handle mortality and accountability with gravity, not shock tactics."
+    },
+    {
+      "name": "cinematic restraint",
+      "guidance": "Use grounded visual language, patient pacing, and respectful atmosphere."
+    },
+    {
+      "name": "no generic AI slideshow feel",
+      "guidance": "Avoid disconnected, glossy, random image sequences."
+    },
+    {
+      "name": "no cheap virality",
+      "guidance": "Avoid manipulative hooks, outrage bait, and sensational claims."
+    }
+  ]
+}
