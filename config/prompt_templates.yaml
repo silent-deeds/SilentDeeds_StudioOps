@@ -1,0 +1,60 @@
+{
+  "templates": {
+    "hidden deed scene": {
+      "subject_action": "A person performing a private act of kindness without seeking attention.",
+      "environment": "A quiet lived-in space with grounded historical or contemporary details as appropriate.",
+      "emotion": "Sincere, humble, intimate, and restrained.",
+      "camera_movement": "Slow observational push-in or gentle locked-off composition.",
+      "lighting": "Soft natural light, low contrast, warm but not glossy.",
+      "restrictions": "No faces if identity could imply a sacred personality. No spectacle, logos, text artifacts, or supernatural imagery."
+    },
+    "old city night scene": {
+      "subject_action": "A solitary figure moving through an old city street at night.",
+      "environment": "Stone walls, narrow alleys, simple lantern light, historically restrained details.",
+      "emotion": "Reflective, quiet, morally serious.",
+      "camera_movement": "Slow tracking shot from behind or from a respectful distance.",
+      "lighting": "Lantern pools of light with deep but natural shadows.",
+      "restrictions": "No fantasy armor, no modern objects, no sacred personalities, no horror framing."
+    },
+    "mother dua scene": {
+      "subject_action": "A mother making dua privately with hands raised or resting in prayerful stillness.",
+      "environment": "Simple home interior, modest details, no decorative excess.",
+      "emotion": "Tender, hopeful, vulnerable, sincere.",
+      "camera_movement": "Gentle close-up on hands, fabric, or silhouette rather than identifiable face.",
+      "lighting": "Soft dawn or late evening light.",
+      "restrictions": "No melodrama, no text artifacts, no direct claim of divine response shown visually."
+    },
+    "repentance scene": {
+      "subject_action": "A person sitting alone in remorse, turning away from a past mistake.",
+      "environment": "Sparse room, doorway, courtyard, or quiet street with grounded details.",
+      "emotion": "Regret, humility, possibility of return.",
+      "camera_movement": "Slow inward move or still frame with controlled breathing space.",
+      "lighting": "Dim natural light shifting toward gentle brightness.",
+      "restrictions": "No shame spectacle, no explicit sin depiction, no horror framing."
+    },
+    "masjid dawn scene": {
+      "subject_action": "A respectful exterior or environmental view around a masjid at dawn.",
+      "environment": "Courtyard, doorway, prayer rugs, shoes, or architectural details without intrusive focus on worshippers.",
+      "emotion": "Peaceful, accountable, renewed.",
+      "camera_movement": "Slow establishing shot or low-detail atmospheric pan.",
+      "lighting": "Blue dawn light with soft gold highlights.",
+      "restrictions": "No logos, no text artifacts, no sacred personalities, avoid identifiable faces."
+    },
+    "symbolic object close-up": {
+      "subject_action": "A meaningful object shown as a production symbol for the approved script.",
+      "environment": "Simple surface, hand, doorway, or room detail tied to the scene context.",
+      "emotion": "Subtle, contemplative, emotionally precise.",
+      "camera_movement": "Macro close-up, slow rack focus, or still frame.",
+      "lighting": "Natural directional light with restrained texture.",
+      "restrictions": "No magical effects, no supernatural claims, no text artifacts unless manually approved."
+    },
+    "no-face historical atmosphere": {
+      "subject_action": "Historically inspired human presence shown without identifiable faces.",
+      "environment": "Grounded period setting with modest clothing, architecture, and props.",
+      "emotion": "Respectful, immersive, restrained.",
+      "camera_movement": "Wide shot, back view, silhouette, hands-only, or environmental framing.",
+      "lighting": "Naturalistic daylight, lantern, or dawn light.",
+      "restrictions": "No sacred personalities, no fake historical lip-sync, no modern objects, no fantasy armor."
+    }
+  }
+}
