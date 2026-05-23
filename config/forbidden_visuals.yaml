@@ -1,0 +1,20 @@
+{
+  "forbidden_or_high_risk_visuals": [
+    "direct depiction of Prophet Muhammad ﷺ",
+    "prophets",
+    "angels",
+    "Jannah",
+    "Jahannam",
+    "sacred personalities",
+    "major unseen realities",
+    "fake historical lip-sync",
+    "gore",
+    "horror framing",
+    "fantasy armor",
+    "modern objects in historical scenes",
+    "logos",
+    "text artifacts",
+    "generic AI spectacle"
+  ],
+  "default_instruction": "Avoid all forbidden and high-risk visuals. Use symbolic, environmental, or no-face alternatives where needed."
+}
